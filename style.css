@@ -1,0 +1,18 @@
+.nav-pills .nav-link.active,
+.show>.nav-pills .nav-link{
+    background: #979595;
+}
+
+button[aria-selected="false"] {
+    background: white;
+    color: #979595;
+  }
+
+  button[aria-selected="false"]:hover {
+    background: white;
+    color: #979595;
+  }
+
+  textarea{
+    resize: none;
+  }
